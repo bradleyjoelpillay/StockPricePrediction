@@ -1,0 +1,59 @@
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe.config
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.pdb
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.dll
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.dll
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.dll
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.xml
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.xml
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.xml
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.ChooseAlgorithm.resources
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.MainMenu.resources
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Output.resources
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Properties.Resources.resources
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.GenerateResource.cache
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CopyComplete
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.exe
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.pdb
+C:\Users\Bradley\Documents\Visual Studio 2017\Projects\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csprojAssemblyReference.cache
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe.config
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.pdb
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.dll
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.dll
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.dll
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.xml
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.xml
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.xml
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csprojAssemblyReference.cache
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.ChooseAlgorithm.resources
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.MainMenu.resources
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Output.resources
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Properties.Resources.resources
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.GenerateResource.cache
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CopyComplete
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.exe
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.pdb
+C:\Users\Bradley\Desktop\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.ChooseParameters.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe.config
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.exe
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\StockPricePrediction.pdb
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.dll
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.dll
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.dll
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\CsvHelper.xml
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\Extreme.Numerics.xml
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\bin\Release\System.ValueTuple.xml
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csprojAssemblyReference.cache
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.ChooseAlgorithm.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.ChooseParameters.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.MainMenu.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Output.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.Properties.Resources.resources
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.GenerateResource.cache
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CoreCompileInputs.cache
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.csproj.CopyComplete
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.exe
+C:\Users\Bradley\Documents\UKZN FILES\My Research Papers\Stock Price Prediction\Journal Paper 1\Software\StockPricePrediction\StockPricePrediction\obj\Release\StockPricePrediction.pdb
